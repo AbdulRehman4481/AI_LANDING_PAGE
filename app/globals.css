@@ -1,0 +1,7 @@
+.page-banner-bg {
+  background: var(
+    --background-brand-2,
+    /* linear-gradient(102deg, #dbf1c3 -7.72%, #dce7e3 86.48%) */
+    linear-gradient(225deg,rgba(239,18,98,1) 0%,rgba(67,97,238,1) 100%)
+  );
+}
